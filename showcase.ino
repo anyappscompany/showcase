@@ -6,6 +6,7 @@
 #include <net.h>
 #include <ETHER_28J60.h>
 
+//
 // шаговые
 // управляющие пины шаговых двигателей
 #define   dataPin          7      // pin 14 on the 74HC595
